@@ -12,4 +12,4 @@ run:
 	ghdl -r $(EXEC) --vcd=wave.vcd
 
 clean:
-	rm --force *.cf wave.vcd
+	rm --force *.cf *.vcd
