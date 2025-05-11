@@ -1,6 +1,6 @@
 cek Makefile
 
-cara compile dan elaborate: make
+cara compile dan elaborate = make
 
 cara delete *.cf dan *.vcd file = make clean
 
